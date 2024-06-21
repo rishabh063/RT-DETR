@@ -167,3 +167,8 @@ cython_debug/
 *.onnx
 rtdetr_pytorch/output/*
 rtdetr_pytorch/dataset/*
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.pt
